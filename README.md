@@ -1,2 +1,2 @@
 # LSWindowStateManager
-Save and restore window position
+Save and restore WPF window position

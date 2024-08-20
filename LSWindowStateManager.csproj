@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <PackageId>LSWindowStateManager</PackageId>
+    <Version>0.0.1</Version>
+    <Authors>audioProg</Authors>
+    <Description>Save and restore window position</Description>
+    <RepositoryUrl>github.com/audioprog/LSWindowStateManager</RepositoryUrl>
+    <TargetFramework>net8.0-windows8.0</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+</Project>
